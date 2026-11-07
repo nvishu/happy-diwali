@@ -1,18 +1,18 @@
 /* ====== EDIT THIS SECTION ====== */
 const CONFIG = {
-  from: "Nishant",
+  from: "Nishant vishu",
   song: "data/song.mp3",            // upload your song here
   slides: [
     { emoji:"💼", title:"Dear Team", photo:"data/team.jpg",
       text:"To my wonderful team and colleagues: thank you for every deadline we beat, every problem we solved and every laugh in between. May your life run without failures, only success, and may this Diwali fill you and your family with light, health and happiness. Happy Diwali!" },
     { type:"gallery", emoji:"📸", title:"Our Memories", sub:"Moments that made this year shine ✨",
-      photos:["data/pic1.jpg","data/pic2.jpg","data/pic3.jpg","data/pic4.jpg"] }
+      photos:["data/pic1.jpg","data/pic2.png","data/pic3.jpg","data/pic4.jpg"] }
   ],
   letter: {
     title:"A Letter For You",
     photo:"data/letter.jpg",
     body:[
-      "Dear Family, Friends and Colleagues,",
+      "Dear lovely Friends and Colleagues,",
       "On this auspicious night of Diwali, as thousands of diyas light up the sky, I wish that every corner of your life glows with happiness, peace and prosperity.",
       "May Maa Lakshmi bless your home with wealth and good health, and may Lord Ganesha remove every obstacle from your path.",
       "Thank you for every smile, every bit of support and every memory we made together this year. You are the real light in my life.",
